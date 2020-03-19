@@ -1,6 +1,5 @@
 #include <iostream>
 #include <fstream> 
-#include <conio.h>
 #include <cmath>
 #include <cstring>
 #include <string>
@@ -68,7 +67,7 @@ int main() {
 
     outfile.close();
 
-    _getch();
+    getchar();
 
 }
 
